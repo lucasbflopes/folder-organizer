@@ -1,0 +1,36 @@
+{
+  "src": "/Users/LucasBraganca/Desktop/teste",
+  "folders": [
+    {
+      "name": "Music",
+      "extensions": [
+        ".mp3"
+      ]
+    },
+    {
+      "name": "Images",
+      "extensions": [
+        ".jpg",
+        ".png"
+      ]
+    },
+    {
+      "name": "Code",
+      "extensions": [
+        ".js",
+        ".rb",
+        ".css",
+        ".py",
+        ".html"
+      ]
+    },
+    {
+      "name": "Documents",
+      "extensions": [
+        ".pdf",
+        ".doc",
+        ".docx"
+      ]
+    }
+  ]
+}

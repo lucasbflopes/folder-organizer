@@ -1,0 +1,17 @@
+{
+  "name": "folder-organizer",
+  "version": "1.0.0",
+  "description": "A simple script to organize files according to their type.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "watch": "node src/watch.js"
+  },
+  "keywords": ["organize", "folder", "files"],
+  "author": "Lucas Bragança",
+  "license": "MIT",
+  "dependencies": {
+    "mv": "^2.1.1",
+    "node-notifier": "^5.2.1"
+  }
+}
